@@ -30,3 +30,29 @@
   left: 73px;
   top: -5px;
 }
+
+.screen-header__notification-cog-more {
+  background-color: red;
+  color: red;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  position: absolute;
+  left: 122px;
+  top: -5px;
+}
+
+.user-component__column-more-comment i {
+  color: black;
+}
+
+.user-component__text-exclamation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.user-component__text-exclamation i {
+  margin-top: 6px;
+  color: #ff8476;
+}
