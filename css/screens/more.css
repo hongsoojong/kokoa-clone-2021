@@ -1,0 +1,49 @@
+.icon-row__more1 {
+  padding-top: 35px;
+}
+
+.icon-row__more2 {
+  border-bottom: var(--main-border);
+  padding-bottom: 10px;
+}
+
+.icon-row__icon {
+  position: relative;
+}
+
+.icon-row__icon-notification-talkdrive {
+  background-color: red;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  position: absolute;
+  right: 30px;
+  bottom: 70px;
+}
+
+.more-screen__suggestion--title {
+  margin: 25px 0px 20px 0px;
+  display: flex;
+  justify-content: space-between;
+  font-weight: 900;
+}
+
+.icon-row__icon-more-suggestion i {
+  background-color: var(--yellow);
+  width: 55px;
+  height: 55px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin-bottom: -5px;
+}
+
+.more-screen__suggestions {
+  padding: 10px 0px;
+}
+
+.more-screen__suggestion--title {
+  padding-bottom: 10px;
+}
